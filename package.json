@@ -1,7 +1,8 @@
 {
   "name": "@whatscookin/github_user_badge_scraper",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Scraper for github user achievements",
+  "main": "./lib/src/main.js",
   "type": "module",
   "engines": {
     "node": ">= 16.13 <17"
