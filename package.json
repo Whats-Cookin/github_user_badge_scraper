@@ -1,5 +1,5 @@
 {
-  "name": "github_user_badge_scraper",
+  "name": "@whatscookin/github_user_badge_scraper",
   "version": "1.0.0",
   "description": "Scraper for github user achievements",
   "type": "module",
